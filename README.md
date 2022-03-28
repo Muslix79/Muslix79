@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muslix79
-- 👀 I’m interested in ... Cloud, Python, R, Data Scientsit
+- 👀 I’m interested in ... Cloud, Python, R, Data Science
 - 🌱 I’m currently learning ... Azure
 
 
